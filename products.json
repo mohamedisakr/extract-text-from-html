@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Beer",
+    "price": "6.00",
+    "image": "img/products/beer.svg"
+  },
+  {
+    "id": 2,
+    "name": "Energy Drink",
+    "price": "5.00",
+    "image": "img/products/energy-drink.svg"
+  },
+  {
+    "id": 3,
+    "name": "Juice",
+    "price": "4.00",
+    "image": "img/products/juice.svg"
+  },
+  {
+    "id": 4,
+    "name": "Milk",
+    "price": "2.50",
+    "image": "img/products/milk.svg"
+  },
+  {
+    "id": 5,
+    "name": "Mineral Water",
+    "price": "1.00",
+    "image": "img/products/mineral-water.svg"
+  },
+  {
+    "id": 6,
+    "name": "Smoothie",
+    "price": "6.00",
+    "image": "img/products/smoothie.svg"
+  }
+]
